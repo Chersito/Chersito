@@ -24,4 +24,4 @@
 [website]: https://chersito.github.io./
 [youtube]: https://www.youtube.com/channel/UCSaRDrcuzb-znFceImwNSQw
 [instagram]: https://www.instagram.com/cha.reyess/
-[linkedin]: https://www.linkedin.com/in/carlos-reyes-385b69268/
+[linkedin]: https://www.linkedin.com/in/carlos-e-reyes-385b69268/
